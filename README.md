@@ -38,16 +38,10 @@ git clone https://github.com/MrShabbir01/playwright-automation.git
 cd playwright-automation
 ```
 
-**3. Install dependencies**
+**3. Installation Process**
 
 ```bash
-npm install
-```
-
-**4. Install Playwright browsers**
-
-```bash
-npx playwright install
+npm init playwright@latest
 ```
 
 ## Test Execution
@@ -93,7 +87,7 @@ This project uses a Postman collection to test the ReqRes API. Newman is used to
 ### Prerequisites
 
 - Node.js and npm
-- An exported Postman collection in JSON format
+- Newman and Postman
 
 ### Setup
 
