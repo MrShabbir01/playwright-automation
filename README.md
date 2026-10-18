@@ -1,4 +1,4 @@
-# Playwright Automation — Ostad Project
+# Automation Testing Portfolio — Ostad Project
 
 This repository contains two separate testing projects developed as part of my QA learning journey: UI test automation using Playwright and API testing using Postman and Newman.
 
